@@ -1,7 +1,7 @@
 ---
 
 - name: Configure instance
-  hosts: all
+  hosts: siduser209
   gather_facts: False
   become: true
   vars:
